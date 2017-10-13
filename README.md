@@ -1,10 +1,11 @@
-# simple-portscanner
+# Simple Portscanner
 Easy to use, minimalistic port scanner
 
-**Simple Portscanner**   
- Scans the given host for open ports on which attacks could be
- performed.  
-```
+### Simple Portscanner
+
+Scans the given host for open ports on which attacks could be
+performed.  
+```bash
 Usage:  
   ./sps.py...  
     ... hostname -> 192.168.178.1 ; "192.168.178.1, 192.168.178.5"
